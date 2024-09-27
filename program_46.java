@@ -26,6 +26,6 @@ public class program_46 {
                 System.out.println("number is too low");
         }while(true);
 
-        }
+        }      
     }
 
